@@ -93,9 +93,6 @@ alias wds='webpack-dev-server --progress --colors'
 alias backupgit="cd ~/Config/Git && ./backup.sh"
 alias updategit="cd ~/Config/Git && ./update.sh"
 
-alias backupiterm="cd ~/Config/iTerm && ./backup.sh"
-alias updateiterm="cd ~/Config/iTerm && ./update.sh"
-
 alias backupzsh="cd ~/Config/ZSH && ./backup.sh"
 alias updatezsh="cd ~/Config/ZSH && ./update.sh"
 
