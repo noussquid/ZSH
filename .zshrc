@@ -51,7 +51,7 @@ COMPLETION_WAITING_DOTS="true"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git ubuntu textmate colorize colored-man-pages extract thefuck docker gulp history z zsh-syntax-highlighting)
+plugins=(git ubuntu textmate colorize colored-man-pages extract docker gulp history z zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 
